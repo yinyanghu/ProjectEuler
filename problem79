@@ -1,0 +1,6 @@
+cat problem79.txt | sort | uniq
+
+7 < 3 < 1 < 6 < 2 < 8 < 9 < 0
+
+Answer : 73162890
+
