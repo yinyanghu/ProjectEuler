@@ -1,0 +1,14 @@
+replace:
+
+DCCCC --> CM
+LXXXX --> XC
+VIIII --> IX
+IIII  --> IV
+XXXX  --> XL
+CCCC  --> CD
+
+Delta = 743
+
+
+echo `cat problem89.txt| wc -c` - `cat problem89.txt | sed s/DCCCC/CM/ | sed s/CCCC/CD/ | sed s/LXXXX/XC/ | sed s/XXXX/XL/| sed s/VIIII/IX/  | sed s/IIII/IV/ | wc -c` | bc
+743
