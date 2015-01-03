@@ -1,7 +1,7 @@
 Solutions to ProjectEuler
 === 
 
-* ID: Yinyanghu
+* ID: yinyanghu
 * Level 3
 * My Friend Key: `24707_b35fed882fa1e907742beea4abdb8250`
 
