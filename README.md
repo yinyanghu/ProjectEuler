@@ -5,7 +5,7 @@ Solutions to ProjectEuler
 * Level 3
 * My Friend Key: `24707_b35fed882fa1e907742beea4abdb8250`
 
-[](https://projecteuler.net/profile/yinyanghu.png)
+![yinyanghu](https://projecteuler.net/profile/yinyanghu.png)
 
 
 Awards Earned
