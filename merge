@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mkdir problem$1
+mv problem$1.* problem$1/
