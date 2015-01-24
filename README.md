@@ -17,5 +17,5 @@ Awards Earned
 * **As Easy As Pi**: Solve problems 3, 14, 15, 92, 65, 35, 89, 79, 32, 38, and 46
 
 ---
-☯ Yinyanghu, 2012 - 2015
+☯ Yinyanghu, 2008 - 2015
 
